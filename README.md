@@ -15,6 +15,12 @@ Repositorio para centralizar materiais oficiais de identidade visual, componente
 
 Baixe ou copie os arquivos necessarios a partir das pastas correspondentes. Sempre preserve os nomes e versoes dos arquivos para evitar uso incorreto de materiais antigos.
 
+## Seguranca
+
+Nunca envie para este repositorio tokens, senhas, chaves de API, arquivos `.env`, certificados, credenciais de acesso ou arquivos internos que nao tenham liberacao para publicacao.
+
+Se algum token ou senha for enviado por engano, remova o arquivo e revogue a credencial imediatamente no servico de origem.
+
 ## Organizacao Recomendada
 
 Use nomes claros e consistentes, por exemplo:
