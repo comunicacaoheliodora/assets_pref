@@ -1,0 +1,14 @@
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporarios
+*.tmp
+*.temp
+~$*
+
+# Pacotes/exportacoes locais grandes
+*.zip
+*.rar
+*.7z
+
